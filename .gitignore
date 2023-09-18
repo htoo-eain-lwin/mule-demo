@@ -39,3 +39,5 @@ flows/
 target/
 **/*.mflow
 .mule
+.tooling-apps-cache/
+.tooling
